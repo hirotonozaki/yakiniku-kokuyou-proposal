@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/28168329/README.md)
 <div align="center">
 
 # 焼肉 黒耀 — Web Site Renewal Plan
@@ -115,8 +116,7 @@ yakiniku-kokuyou-proposal/
 │   └── proposal.css        # 全スタイル（変数 → ベース → コンポーネント → @media print）
 └── assets/
     └── images/
-        ├── preview-mockup.png  # トップページ表示イメージ（PC/SP併記モックアップ）
-        └── qr.png              # 実装版サイトへの遷移用QRコード
+        └── preview-mockup.png  # トップページ表示イメージ（PC/SP併記モックアップ）
 ```
 
 <br />
