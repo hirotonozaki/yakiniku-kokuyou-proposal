@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28168344/README.md)
+[README.md](https://github.com/user-attachments/files/28168412/README.md)
 <div align="center">
 
 # 焼肉 黒耀 — Brand Experience Site
@@ -10,7 +10,7 @@
 
 <br />
 
-![焼肉 黒耀 Preview](./assets/images/preview-mockup.png)
+![焼肉 黒耀 Preview](./assets/images/preview-mockup-v2.png)
 
 <br />
 
@@ -145,14 +145,14 @@ yakiniku-kokuyou/
         ├── course-main.{jpg,webp}
         ├── access-store.{jpg,webp}
         ├── ogp.jpg                                 # SNS シェア用 OGP（1200×630）
-        └── preview-mockup.png                      # README プレビュー
+        └── preview-mockup-v2.png                   # README プレビュー
 ```
 
 <br />
 
 ## 🖼 Screenshot ／ スクリーンショット
 
-![焼肉 黒耀 Preview](./assets/images/preview-mockup.png)
+![焼肉 黒耀 Preview](./assets/images/preview-mockup-v2.png)
 
 <br />
 
